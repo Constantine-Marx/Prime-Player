@@ -1,0 +1,4 @@
+D:/qt test/build/CMakeFiles/tets.dir
+D:/qt test/build/CMakeFiles/edit_cache.dir
+D:/qt test/build/CMakeFiles/rebuild_cache.dir
+D:/qt test/build/CMakeFiles/tets_autogen.dir

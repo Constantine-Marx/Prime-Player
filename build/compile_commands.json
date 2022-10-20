@@ -1,0 +1,17 @@
+[
+{
+  "directory": "D:/qt test/build",
+  "command": "D:\\Qt\\Tools\\mingw810_64\\bin\\g++.exe -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB @CMakeFiles/tets.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\tets.dir\\tets_autogen\\mocs_compilation.cpp.obj -c \"D:\\qt test\\build\\tets_autogen\\mocs_compilation.cpp\"",
+  "file": "D:/qt test/build/tets_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "D:/qt test/build",
+  "command": "D:\\Qt\\Tools\\mingw810_64\\bin\\g++.exe -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB @CMakeFiles/tets.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\tets.dir\\src\\main.cpp.obj -c \"D:\\qt test\\src\\main.cpp\"",
+  "file": "D:/qt test/src/main.cpp"
+},
+{
+  "directory": "D:/qt test/build",
+  "command": "D:\\Qt\\Tools\\mingw810_64\\bin\\g++.exe -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB @CMakeFiles/tets.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\tets.dir\\src\\tets.cpp.obj -c \"D:\\qt test\\src\\tets.cpp\"",
+  "file": "D:/qt test/src/tets.cpp"
+}
+]

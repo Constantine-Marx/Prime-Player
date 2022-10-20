@@ -1,0 +1,3 @@
+D:\Qt\Tools\CMake_64\bin\cmake.exe -E rm -f CMakeFiles\tets.dir/objects.a
+D:\Qt\Tools\mingw810_64\bin\ar.exe qc CMakeFiles\tets.dir/objects.a @CMakeFiles\tets.dir\objects1.rsp
+D:\Qt\Tools\mingw810_64\bin\g++.exe -g -mwindows -Wl,--whole-archive CMakeFiles\tets.dir/objects.a -Wl,--no-whole-archive -o tets.exe -Wl,--out-implib,libtets.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\tets.dir\linklibs.rsp
